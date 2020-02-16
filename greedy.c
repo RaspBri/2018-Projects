@@ -1,3 +1,5 @@
+// Program calculates the least amount of coins needed to pay someone back.
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
