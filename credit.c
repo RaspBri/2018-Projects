@@ -1,3 +1,5 @@
+// Program determines whether a provided credit card number is valid according to Luhn’s algorithm.
+
 #include <cs50.h>
 #include <stdio.h>
 #include <math.h>
